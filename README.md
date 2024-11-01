@@ -22,7 +22,7 @@ Get your API key.
 
 Name | Key |
 | ------------------- |-------------- |
-| [ViewDNS](https://viewdns.info/api/) |  🔑 |
+| [ViewDNS](https://viewdns.info/api/) |  🔑 (Necessary) |
 
 - Select the free plan.
 
